@@ -1,1 +1,2 @@
-const test = "i am testing";
+const test: string = "i am testing";
+console.log(test);
